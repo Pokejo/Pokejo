@@ -4,6 +4,6 @@
 <!--[![My Skills](https://skillicons.dev/icons?i=js,html,css,arduino,bash,c,cpp,debian,github,godot,linux,powershell,py,pycharm,raspberrypi,visualstudio,vscode,windows)](https://skillicons.dev)-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,html,css,arduino,bash,c,cpp,debian,github,godot,linux,powershell,py,pycharm,raspberrypi,visualstudio,vscode,windows&perline=8" />
+    <img src="https://skillicons.dev/icons?i=js,html,css,arduino,bash,c,cpp,debian,github,godot,linux,powershell,py,pycharm,raspberrypi,visualstudio,vscode,windows&perline=9" />
   </a>
 </p>
